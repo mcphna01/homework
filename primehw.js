@@ -30,5 +30,5 @@ function nextprime() {
     while(nprime.innerHTML>=plist[i]) {
     	i++
     }
-    nprime.innerHTML=plist[i]  
+    nprime.innerHTML=plist[i]
 }
